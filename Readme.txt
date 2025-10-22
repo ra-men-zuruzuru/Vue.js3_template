@@ -12,8 +12,6 @@ VS Code
 
 拡張機能：Vue - Official (Volar)、Prettier
 
-「TypeScript: Select TypeScript Version → Use Workspace Version」を選ぶ
-
 手順
 
 1.vue_templateフォルダをvscodeで開く
@@ -23,3 +21,19 @@ cd vue-project
 
 3.ターミナルでnpm iを実行し、パッケージをインストールする
 npm i
+
+使用技術
+フロントエンドフレームワーク
+Vue.js 3
+
+ビルドツール
+Vite
+
+CSSフレームワーク
+Vutify3
+
+プログラミング言語
+TypeScript
+
+コード品質維持
+ESLint
